@@ -7,6 +7,6 @@ func main(){
 	a:=1
 	fmt.Println("Hello World!")
 	fmt.Println(a)
-	fmt.Println(a+1)
+	fmt.Println(a+10)
 
 }
