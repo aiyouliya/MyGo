@@ -1,0 +1,8 @@
+1.git checkout -b dev
+创建dev分支并切换到dev分支
+2.git branch dev
+3.git checkout dev
+note 1=2+3
+
+4.git branch
+查看当前分支
