@@ -15,5 +15,10 @@ add a new line in dev version too.
 >>>>>>> dev
 
  conflict fixed and update.
+<<<<<<< HEAD
  -----------
  now i fixed bug101.
+=======
+ -----------------
+ complete module phone number.
+>>>>>>> dev
