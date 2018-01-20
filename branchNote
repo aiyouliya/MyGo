@@ -16,9 +16,19 @@ add a new line in dev version too.
 
  conflict fixed and update.
 <<<<<<< HEAD
+<<<<<<< HEAD
  -----------
  now i fixed bug101.
 =======
  -----------------
  complete module phone number.
+>>>>>>> dev
+=======
+<<<<<<< Updated upstream
+ -----------------
+ complete module phone number.
+=======
+ --------------
+ now i want fix a bug on aother brance,so i must stash dev brance,and checkout a new version.
+>>>>>>> Stashed changes
 >>>>>>> dev
