@@ -8,5 +8,6 @@ func main(){
 	fmt.Println("Hello World!")
 	fmt.Println(a)
 	fmt.Println(a+10)
+	fmt.Println(30)
 
 }
