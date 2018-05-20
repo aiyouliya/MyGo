@@ -1,0 +1,2 @@
+
+PMS tokeninfo http://pms.chinasofti.com/centralizedLogin.jsp?token=fbff54cf36e203ac0136e209fe9c0008&uId=E100003888
